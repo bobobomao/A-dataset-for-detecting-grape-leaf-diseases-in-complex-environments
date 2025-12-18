@@ -6,5 +6,5 @@ Link： https://drive.google.com/drive/folders/XXXX?usp=sharing
 
 ## 2. 数据集通过百度网盘发布
 
-链接： https://pan.baidu.com/s/XXXX  
-提取码： nygx
+链接：https://pan.baidu.com/s/1ePEhXstfLY31q4TXAFpLTg?   
+提取码：ayeb
