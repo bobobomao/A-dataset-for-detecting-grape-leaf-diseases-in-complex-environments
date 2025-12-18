@@ -1,4 +1,4 @@
-# CCTSDB2021
+# A dataset for detecting grape leaf diseases in complex environments
 
 ## 1. 数据集通过谷歌云端硬盘发布（Google Drive）
 
