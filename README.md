@@ -2,7 +2,7 @@
 
 ## 1. 数据集通过谷歌云端硬盘发布（Google Drive）
 
-Link： https://drive.google.com/drive/folders/XXXX?usp=sharing
+Link：https://drive.google.com/file/d/1g5dRyV1ab1KtrtBfi6gIEPvixIca2eUj/view?usp=drive_link
 
 ## 2. 数据集通过百度网盘发布
 
